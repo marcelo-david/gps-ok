@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="224b0452-397f-4d52-a105-4c98ee185bdd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1lg6DPmO7T4mDDpxMyJl3Ng8FoL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\proactiva" />
+      <recent name="C:\xampp\htdocs\proactiva\assets\js\apps\commons" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\easygps\assets\fonts\fa" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="224b0452-397f-4d52-a105-4c98ee185bdd" name="Default Changelist" comment="" />
+      <created>1608006266640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608006266640</updated>
+      <workItem from="1608006267746" duration="3054000" />
+      <workItem from="1608029456250" duration="632000" />
+      <workItem from="1608030173037" duration="3137000" />
+      <workItem from="1608035172057" duration="2195000" />
+      <workItem from="1608037522335" duration="1661000" />
+      <workItem from="1608039991104" duration="3149000" />
+      <workItem from="1608098957688" duration="8000" />
+      <workItem from="1608123449217" duration="92000" />
+      <workItem from="1608123895390" duration="649000" />
+      <workItem from="1608127996141" duration="20000" />
+      <workItem from="1608128372360" duration="655000" />
+      <workItem from="1616401477471" duration="183000" />
+      <workItem from="1617248663402" duration="9097000" />
+      <workItem from="1618022362043" duration="662000" />
+      <workItem from="1620134613098" duration="1613000" />
+      <workItem from="1620182648903" duration="204000" />
+      <workItem from="1620217420202" duration="336000" />
+      <workItem from="1620279893939" duration="662000" />
+      <workItem from="1620365398527" duration="3000" />
+      <workItem from="1620391713312" duration="5197000" />
+      <workItem from="1620449285854" duration="14000" />
+      <workItem from="1620991976800" duration="6726000" />
+      <workItem from="1621000046659" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
