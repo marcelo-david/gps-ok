@@ -1,0 +1,122 @@
+﻿
+﻿﻿﻿﻿<h1>LEIA ATENTAMENTE ESTAS POLÍTICAS DE PRIVACIDADE  
+VISÃO GERAL</h1>
+<br><br>
+
+<p> A OK+ GPS está comprometida em proteger a privacidade das informações pessoais de indivíduos identificáveis ​​que utilizam nosso aplicativo da Web Track and Trace, seja de nossos aplicativos móveis Android ou IOS, nossa Ferramenta de campo móvel ou nosso aplicativo da Web Device Manager e aqueles que visitam www.okfibra.com/gps e usar qualquer um dos serviços disponíveis em (os “Serviços”). Alterações a esta política de privacidade serão publicadas de tempos em tempos nos Sites e entrarão em vigor quando publicadas. Alterações materiais na política de privacidade serão comunicadas a você por meio de um aviso por e-mail. Seu uso continuado dos Serviços após a publicação de qualquer alteração à política de privacidade constituirá sua aceitação de tal alteração. Se você desejar se recusar a dar consentimento contínuo, poderá fazer logoff de qualquer Site a qualquer momento. Quaisquer versões não inglesas desta política de privacidade são apenas para conveniência. No caso de qualquer conflito entre as traduções, a versão em inglês é oficial.</p>
+
+<h1>COLETA DE INFORMAÇÕES E USO <h1>
+
+<h2>Informações coletadas ativamente </h2>
+
+<p> Quando você se junta a nós como usuário de nossos Serviços, solicitamos informações pessoais que serão usadas para ativar sua conta, fornecer os Serviços a você de acordo com as configurações de conta que você preferir, comunicar com você sobre o status de sua conta e para outras propósitos estabelecidos nesta política de privacidade. Seu nome, número de identificação do governo, nome da empresa, endereço, número de telefone, endereço de e-mail, fotos, informações de cartão de crédito e algumas outras informações sobre você podem ser solicitadas por nós para fornecer os Serviços ou divulgadas por você durante o uso dos Serviços. Todas as informações que você inserir podem ser alteradas por você a seu critério. Você também será solicitado a criar uma senha privada, que se tornará parte das informações da sua conta.</p>
+
+<h2>Informações coletadas passivamente </h2>
+
+<p> Além disso, coletamos informações passivamente como resultado de seu uso dos Serviços, incluindo dados baseados em localização, dados de uso, dados de dispositivos, dados de referência e informações de tags de página, conforme estabelecido com mais detalhes abaixo.</p>
+
+<h2>Informações baseadas em </h2>
+
+<p> Para fornecer nossos serviços baseados em localização, nós e nossos parceiros geralmente compartilhamos dados de localização precisos, incluindo a localização geográfica em tempo real do dispositivo de rastreamento do seu equipamento. Podemos utilizar GPS, Bluetooth e seu endereço IP junto com localizações de satélite e celular para determinar a localização aproximada de seu equipamento. Obtemos dados de localização aproximados (baseados em rede) e localização precisa (baseados em GPS e rede).</p>
+
+<h2>Dados de uso </h2>
+
+<p> Podemos coletar dados de uso sempre que você interagir com qualquer um de nossos Sites, incluindo as páginas da Web que você visita, o que você clica, sua localização e quando você realiza determinadas ações. Além disso, os vários Sites mantêm arquivos de log que registram dados cada vez que um dispositivo acessa esses servidores. Os arquivos de log contêm dados sobre a natureza de cada acesso, incluindo endereços IP de origem, provedores de serviços de Internet, os arquivos visualizados, versões do sistema operacional e carimbos de data/hora. (Observe que não processamos ou cumprimos o sinal de "não rastrear" de qualquer navegador da Web ou outro mecanismo semelhante que indique uma solicitação para desativar o rastreamento online de usuários individuais que visitam nossos Sites ou usam nossos Serviços.)</p>
+
+<h2>Dados do dispositivo </h2>
+
+<p> Coletamos dados do dispositivo e aplicativo que você usa, como seu endereço IP, versão do sistema operacional, tipo de dispositivo, informações de sistema e desempenho e tipo de navegador.</p>
+
+<h2>Dados de referência </h2>
+
+<p> Se você acessar nossos Sites por meio de uma fonte externa (como um link em outro site ou em um e-mail), registramos informações sobre a fonte que o encaminhou para nós.</p>
+
+<h2>Informações das tags </h2>
+
+<p> Podemos, de tempos em tempos, usar serviços de rastreamento de terceiros que empregam cookies e tags de página (também conhecidos como web beacons) para coletar dados agregados e anônimos sobre os visitantes de nossos Sites. Esses dados incluem estatísticas de uso e usuário.</p>
+
+<h2>CONSENTIMENTO GERAL  </h2>
+
+<p> Ao nos contratar para fornecer a você os Serviços em nome de sua organização (o “Proprietário da conta”) (que você declara ter autoridade legal para se vincular a estes termos), você concorda voluntariamente com a coleta, uso e compartilhamento de tais informações conforme especificado nesta política de privacidade. Sem limitar o precedente, podemos ocasionalmente solicitar seu consentimento quando coletamos, usamos ou divulgamos suas informações pessoais em circunstâncias específicas. Às vezes, seu consentimento estará implícito por meio de sua conduta conosco se o objetivo da coleta, uso ou divulgação for óbvio e você fornecer as informações voluntariamente. Você também concorda com estes termos em nome de seu empregador (o Proprietário da conta”) e declara e garante que recebeu autoridade para vincular a organização a esses termos. Não vendemos seus dados.</p>
+
+<h2>QUE NOS AJUDAM A FORNECER OS SERVIÇOS A VOCÊ DA SEGUINTE FORMA:</h2>
+
+<p> • Para entregar uma carta de boas-vindas, avisos de atualização e outros tipos semelhantes de comunicação;</p>
+<p> • Para fornecer os Serviços ao proprietário da conta (geralmente seu empregador) e a você e melhorar a qualidade dos Sites e Serviços;</p>
+<p> • Para fornecer informações ao proprietário da conta e a você para que você possa usar o Site e os Serviços de forma mais eficaz;</p>
+<p> • Para criar, gerenciar e controlar as informações de sua conta e verificar direitos de acesso a serviços e software;</p>
+<p> • Para faturar a conta;</p>
+<p> • Para responder a solicitações legais, quando autorizado pelo proprietário da conta ou exigido por lei;</p>
+<p> • Para se comunicar com o proprietário da conta e com você com o objetivo de informá-lo sobre alterações ou adições aos Serviços, ou sobre a disponibilidade de qualquer serviço que prestamos;</p>
+<p> • Para avaliar os níveis de serviço, monitore os padrões de tráfego e avalie a popularidade de diferentes opções de serviço;</p>
+<p> • Para realizar nossas atividades de marketing;</p>
+<p> • Para fazer cumprir esta política de privacidade;</p>
+<p> • Para aumentar a segurança dos dados enviados ou a integridade do Site;
+<p> • Para fornecer conteúdo personalizado;</p>
+<p> • Para auditar e/ou melhorar nossos Serviços;</p>
+<p>  Para responder a reclamações de qualquer violação de nossos direitos ou de terceiros;</p>
+<p> • Para responder às solicitações de atendimento ao cliente; Para ler, modificar ou excluir o conteúdo do seu cartão SD.</p>
+<p> • Para prevenir atividades potencialmente ilegais;</p>
+<p> • Para proteger os direitos, propriedade ou segurança pessoal de você, nós, o proprietário da conta, nossos usuários e o público; e conforme exigido ou autorizado por lei;</p>
+<p> • Ocasionalmente, podemos nos comunicar com o proprietário da conta e com você sobre nossos produtos, serviços, notícias e eventos. Você tem a opção de não receber essas informações. Fornecemos uma função de exclusão em todas as comunicações por e-mail dessa natureza ou deixaremos de nos comunicar com você para esse fim se você entrar em contato conosco e nos disser para não comunicar essas informações a você. O único tipo dessas comunicações que você não pode "desativar" são aquelas necessárias para comunicar anúncios relacionados aos Serviços, incluindo informações específicas de sua conta, suspensões e interrupções planejadas dos Serviços. Tentaremos minimizar esse tipo de comunicação com você.</p>
+
+<h2>CONSENTIMENTO PARA APLICATIVOS MÓVEIS PARA LER O STATUS E IDENTIDADE DO </h2>TELEFONE
+
+<p> Ao fazer login em nossos aplicativos móveis, você está nos permitindo acesso ao estado do seu telefone, incluindo o número de telefone do dispositivo, informações atuais da rede celular, o status de quaisquer chamadas em andamento e uma lista de todas as contas de telefone registradas no dispositivo. Usamos essas informações para vincular o acesso de um dispositivo à sua conta a uma chave de API específica, para evitar que você precise se autenticar novamente. Sua chave de API tem um segredo separado que deve ser apresentado para validar você como usuário. Essa chave de API também nos permite desabilitar dispositivos específicos em sua conta sem desabilitar a conta inteira (para uso quando um usuário perde seu celular, por exemplo). Rastreamos o tipo de dispositivo, versão do SO, UUID (específico para o dispositivo), Versão da API e horário do primeiro/último acesso. Não compartilhamos essas informações com outras partes, exceto potencialmente com parceiros de serviço de tempos em tempos. Não rastreamos chamadas telefônicas, se o telefone está em uma chamada, outros aplicativos em execução ou qualquer informação semelhante.</p>
+
+<h2>CONSENTIMENTO PARA O ACESSO DO SEU EMPREGADOR AOS SEUS DADOS</h2>
+
+<p> Você reconhece que a conta sob a qual você acessa o Serviço pode ser uma conta corporativa de seu empregador e que, em caso afirmativo, seu empregador e seus administradores terão acesso total a todas as suas informações coletadas neste documento. Ao fazer login em qualquer Site, você está dando consentimento para esse compartilhamento de suas informações com seu empregador e com as pessoas que podem conceder acesso ou direcionar.</p>
+
+<h2>CONSENTIMENTO PARA PROCESSAMENTO DE DADOS NO BRASIL</h2>
+
+<p> Ao fazer login em qualquer Site, você reconhece e concorda afirmativamente com o processamento dos dados coletados em nossos servidores baseados na Índia. Você concorda com a transferência de seus dados para o BRASIL e nos locais de dados. Seu consentimento é voluntário e você pode revogá-lo fazendo logoff a qualquer momento.</p>
+
+<h2>IDADE DE CONSENTIMENTO</h2>
+
+<p> Não fornecemos conscientemente os Serviços e não coletaremos intencionalmente as informações pessoais de menores de 18 anos.</p>
+
+<h2>DIREITOS ÀS SUAS INFORMAÇÕES</h2>
+
+<p> Você tem o direito de acessar e editar suas informações a qualquer momento por meio da interface da web fornecida como parte dos Serviços.</p>
+
+<h2>COMPARTILHANDO SUAS INFORMAÇÕES</h2>
+
+<p> Apenas compartilharemos suas informações com terceiros de acordo com suas instruções ou conforme necessário para fornecer um serviço específico (como compartilhamento com subcontratados ou fornecedores que auxiliam na prestação dos Serviços) ou de acordo com a legislação de privacidade aplicável. Como regra geral, não vendemos, alugamos, compartilhamos ou divulgamos suas informações pessoais sem antes receber sua permissão ou conforme permitido nesta política de privacidade.</p>
+
+<h2>DADOS AGREGADOS</h2>
+
+<p> Também podemos usar suas informações pessoais para gerar Dados Agregados para uso interno e para compartilhamento com outras pessoas de forma seletiva. “Dados Agregados” significa registros que foram despojados de informações potencialmente identificando clientes, páginas de destino ou usuários finais, e que foram manipulados ou combinados para fornecer informações generalizadas e anônimas. Sua identidade e informações pessoais serão mantidas anônimas em Dados Agregados.</p>
+
+<h2>LINKS</h2>
+
+<p> O Site pode conter links para outros sites e não somos responsáveis ​​pelas práticas de privacidade ou pelo conteúdo de tais sites. Recomendamos que você leia a política de privacidade dos sites vinculados. Suas políticas e práticas de privacidade diferem das nossas políticas e práticas.</p>
+
+<h2>COOKIES E ARQUIVOS DE LOG</h2>
+
+<p> Usamos cookies para autenticar e registrar arquivos para rastrear informações do usuário. Cookies são pequenas quantidades de dados que são transferidos para o seu navegador da web por um servidor da web e são armazenados no disco rígido do seu computador. Usamos cookies para rastrear qual variante de página um visitante viu, rastrear se um visitante clicou em uma variante de página, monitorar padrões de tráfego e avaliar a popularidade das opções de serviço. Usaremos essas informações para fornecer conteúdo e serviços relevantes para você.</p>
+
+<h2>MUDANÇA DE PROPRIEDADE OU TRANSIÇÃO DE NEGÓCIOS</h2>
+
+<p> No caso de uma mudança de propriedade ou outra transição de negócios, como uma fusão, aquisição, venda de nossos ativos ou falência ou situação semelhante, suas informações podem ser transferidas de acordo com as leis de privacidade aplicáveis.</p>
+
+<h2>SEGURANÇA</h2>
+
+<p> Nós nos esforçaremos para impedir o acesso não autorizado às suas informações pessoais, no entanto, nenhuma transmissão de dados pela Internet, por dispositivo sem fio ou pelo ar é garantida como 100% segura. Usaremos medidas de segurança técnica e organizacional padrão do setor em relação ao armazenamento, processamento e transferência de suas informações que são projetadas para proteger a integridade das informações e proteger contra acesso, uso ou processamento não autorizado ou ilegal de tais em formação.</p>
+
+<h2> Recomendamos fortemente que você não divulgue sua senha para ninguém. Se você esquecer sua senha, enviaremos um link de redefinição para o endereço de e-mail de registro. </h2>
+
+<p> Lembre-se de que você controla quais informações pessoais fornece ao usar os Serviços. Em última análise, você é responsável por manter o sigilo de sua identificação, senhas e/ou qualquer informação pessoal em sua posse para o uso dos Serviços. Seja sempre cuidadoso e responsável em relação às suas informações pessoais. Não somos responsáveis ​​e não podemos controlar o uso por terceiros de qualquer informação que você forneça a eles e você deve ter cuidado ao selecionar as informações pessoais que você fornece a outros por meio dos Serviços. Da mesma forma, não podemos assumir qualquer responsabilidade pelo conteúdo de quaisquer informações pessoais ou outras informações que você receba de outros usuários por meio dos Serviços, e você nos isenta de toda e qualquer responsabilidade em relação ao conteúdo de quaisquer informações pessoais ou outras informações que você possa receber usando os Serviços. Não podemos garantir ou assumir qualquer responsabilidade pela verificação da exatidão das informações pessoais ou outras informações fornecidas por terceiros. Você nos isenta de toda e qualquer responsabilidade em relação ao uso de tais informações pessoais ou outras informações de terceiros.</p>
+
+<h2>SUAS RESPONSABILIDADES﻿</h2>
+
+<p> • Você deve fornecer informações precisas ao criar sua conta;</p>
+<p> • Você deve proteger sua senha e todas as atividades que ocorram sob seus códigos de acesso;</p>
+<p> • Você nunca deve usar a conta de outra pessoa de forma inadequada e sem permissão;</p>
+<p> • Você não pode desmontar, descompilar ou fazer engenharia reversa dos Serviços ou tentar ou ajudar outra pessoa a fazê-lo;</p>
+<p> • Você deve seguir as políticas de seu empregador e sob cuja conta você tem direito a utilizar os Serviços e deve cumprir o acordo contratual entre seu empregador e a OK+ GPS.;</p>
+<p> • Você deve ter 18 anos ou mais.</p>
+
+<h2>CONTATE-NOS</h2>
+
+Se você tiver dúvidas ou sugestões sobre nossa política de privacidade, entre em contato conosco em  gps@okfibra.com
