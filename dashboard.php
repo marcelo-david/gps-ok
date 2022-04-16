@@ -32,9 +32,7 @@ header("Pragma: no-cache");
         <!--<link rel="stylesheet" href="assets/js/plugins/leaflet/leaflet.css">-->
         <link rel="stylesheet" href="assets/js/plugins/leaflet/Icon.Label.css" />
         <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet" />
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
-              integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
-              crossorigin="" />
+        <link rel="stylesheet" href="assets/css/1.3.4-leaflet.css" />
         <link rel="stylesheet" href="assets/js/plugins/Leafletmarkercluster/dist/MarkerCluster.Default.css" />
         <!-- datatables buttons-->
         <link href="assets/js/plugins/tables/datatables3/datatables.min.css" rel="stylesheet" type="text/css" />
@@ -977,9 +975,7 @@ header("Pragma: no-cache");
         <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-duration-format/1.3.0/moment-duration-format.min.js">
         </script>
         <script src="assets/js/plugins/pickers/daterangepicker.js"></script>
-        <script src="assets/js/plugins/leaflet.js"
-                integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
-        crossorigin=""></script>
+        <script src="assets/js/plugins/leaflet.js"></script>
     <!--<script src="assets/js/plugins/leaflet/leaflet.js"></script> -->
         <script src="assets/js/plugins/leaflet/Icon.Label.js"></script>
         <script src="assets/js/plugins/leaflet/Icon.Label.Default.js"></script>
